@@ -13,10 +13,10 @@ IT 연합동아리 '코테이토' 14기 교육팀 발표 자료 폴더입니다.
 
 # Members
 
-| <img src="https://github.com/Limlim0208.png" width=120 /> | <img src="https://github.com/pearseona.png" width=120 /> | <img src="프로필 사진 링크" width=120 /> | <img src="프로필 사진 링크" width=120 /> | <img src="프로필 사진 링크" width=120 /> |
+| <img src="https://github.com/Limlim0208.png" width=120 /> | <img src="https://github.com/pearseona.png" width=120 /> | <img src="https://github.com/hyunji726.png" width=120 /> | <img src="https://github.com/llqortjf.png" width=120 /> | <img src="https://github.com/raonPsm.png" width=120 /> |
 | :-------: | :-------: | :-------: | :-------: | :-------: |
-| [임유미](https://github.com/Limlim0208) | [배선아](https://github.com/pearseona) | [이름](링크) | [이름](링크) | [이름](링크) |
-| [ 13기 FE ] 교육팀장 | [ 13기 BE ] 교육팀 부팀장 | [ 14기 파트 ] 교육팀원 | [ 14기 파트 ] 교육팀원 | [ 14기 파트 ] 교육팀원 |
+| [임유미](https://github.com/Limlim0208) | [배선아](https://github.com/pearseona) | [장현지](https://github.com/hyunji726) | [이연주](https://github.com/llqortjf) | [박승민](https://github.com/raonPsm) |
+| [ 13기 FE ] 교육팀장 | [ 13기 BE ] 교육팀 부팀장 | [ 14기 FE ] 교육팀원 | [ 14기 FE ] 교육팀원 | [ 14기 BE ] 교육팀원 |
 
 # What we Studied
 
@@ -38,13 +38,13 @@ IT 연합동아리 '코테이토' 14기 교육팀 발표 자료 폴더입니다.
 - 발표자는 발표일 기준 전주 금요일까지 주제를 선정해 팀원들에게 안내한다.
 - 발표자는 발표 주차 `월요일 18시`까지 발표자료 초안, 대본을 팀원들에게 필수로 공유한다.
 - 교육팀원들은 발표 주차 `화요일 20시` 전까지 발표자료를 검토하고, 관련된 CS퀴즈 각각 2-3문제씩 제작한다.
-- 수요일 정규 회의때 CS퀴즈 6문제 또는 10문제를 선정한다.
+- 화요일 정규 회의때 CS퀴즈 6문제 또는 10문제를 선정한다.
 
 # Directory Structure
 
 ```plainText
 │
-├─ 13th-Educatoin
+├─ 14th-Educatoin
 │     │
 │     ├─ Week01 (dir)
 │     │     │

@@ -15,8 +15,8 @@ IT 연합동아리 '코테이토' 14기 교육팀 발표 자료 폴더입니다.
 
 | <img src="https://github.com/Limlim0208.png" width=120 /> | <img src="https://github.com/pearseona.png" width=120 /> | <img src="https://github.com/hyunji726.png" width=120 /> | <img src="https://github.com/llqortjf.png" width=120 /> | <img src="https://github.com/raonPsm.png" width=120 /> |
 | :-------: | :-------: | :-------: | :-------: | :-------: |
-| [임유미](https://github.com/Limlim0208) | [배선아](https://github.com/pearseona) | [장현지](https://github.com/hyunji726) | [이연주](https://github.com/llqortjf) | [박승민](https://github.com/raonPsm) |
-| [ 13기 FE ] 교육팀장 | [ 13기 BE ] 교육팀 부팀장 | [ 14기 FE ] 교육팀원 | [ 14기 FE ] 교육팀원 | [ 14기 BE ] 교육팀원 |
+| [임유미](https://github.com/Limlim0208) | [배선아](https://github.com/pearseona) | [장현지](https://github.com/hyunji726) | [박승민](https://github.com/raonPsm) |
+| [ 13기 FE ] 교육팀장 | [ 13기 BE ] 교육팀 부팀장 | [ 14기 FE ] 교육팀원 | [ 14기 BE ] 교육팀원 |
 
 # What we Studied
 
